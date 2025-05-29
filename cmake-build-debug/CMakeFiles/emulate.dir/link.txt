@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/emulate.dir/Emulator/main.c.o CMakeFiles/emulate.dir/Emulator/Processor.c.o CMakeFiles/emulate.dir/Emulator/Decode.c.o CMakeFiles/emulate.dir/Emulator/Execute.c.o CMakeFiles/emulate.dir/Emulator/Execution/DPImmediate.c.o  -o emulate 

@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zack-ubuntu/Projects/AArch64/Emulator/Decode.h
+stdint.h
+-
+stdio.h
+-
+inttypes.h
+-
+
+/home/zack-ubuntu/Projects/AArch64/Emulator/Execute.c
+Execute.h
+/home/zack-ubuntu/Projects/AArch64/Emulator/Execute.h
+
+/home/zack-ubuntu/Projects/AArch64/Emulator/Execute.h
+Decode.h
+/home/zack-ubuntu/Projects/AArch64/Emulator/Decode.h
+Processor.h
+/home/zack-ubuntu/Projects/AArch64/Emulator/Processor.h
+
+/home/zack-ubuntu/Projects/AArch64/Emulator/Processor.h
+stdbool.h
+-
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+inttypes.h
+-
+

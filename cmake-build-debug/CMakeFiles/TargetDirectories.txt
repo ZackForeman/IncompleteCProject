@@ -1,0 +1,3 @@
+/home/zack-ubuntu/Projects/AArch64/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zack-ubuntu/Projects/AArch64/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zack-ubuntu/Projects/AArch64/cmake-build-debug/CMakeFiles/emulate.dir
